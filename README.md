@@ -1,2 +1,4 @@
 # simple-java-chess
-Console chess in java
+Console chess!
+
+Is currently very incomplete.
